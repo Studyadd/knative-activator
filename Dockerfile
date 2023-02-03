@@ -1,0 +1,2 @@
+FROM gcr.io/knative-nightly/knative.dev/serving/cmd/activator@sha256:9834a4edb4536dc79005f32aa6bcc4667f9b39b8a93bd577f72388837232de72
+MAINTAINER Q
